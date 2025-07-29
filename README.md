@@ -1,2 +1,2 @@
-# SpeechArchitectures: Hat Swap Architecture
+# Speech Architectures: Hat Swap Architecture
 Implementing the Hat Swap Architecture in Pytorch with DINO as a feature Extractor
