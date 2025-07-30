@@ -64,7 +64,7 @@ Train the same network on all tasks simultaneously to **mitigate forgetting**.
 - **Catastrophic Forgetting:** The loss of previously learned knowledge when sequentially training on new tasks.
 - **DINO (Self-Supervised ViT):** Used to extract high-level image features.
 
-References:
+## References:
 - [IBM on Catastrophic Forgetting](https://www.ibm.com/think/topics/catastrophic-forgetting)
 - [Multilingual Bottleneck Features – ASR Course, Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/asr/2019-20/asr14-multiling.pdf)
 
