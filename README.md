@@ -11,12 +11,11 @@ We explore two main approaches:
 ---
 
 ## Architecture
+![Hat Swap Network Architecture](https://raw.githubusercontent.com/dineshRaja29/HatSwap-MultiTask-Network/main/hatswaparhictecture.png)
 
 The Hat Swap Network structure includes:
 - A **shared feature extractor** based on **DINO**, a self-supervised Vision Transformer (ViT) from Facebook AI.
 - Separate **output heads** for each task.
-- Diagram: See `hatswaparhictecture.png` in the repo for visual reference.
-![Hat Swap Network Architecture](https://raw.githubusercontent.com/dineshRaja29/HatSwap-MultiTask-Network/main/hatswaparhictecture.png)
 
 
 ---
