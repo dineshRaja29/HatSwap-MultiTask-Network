@@ -11,7 +11,7 @@ We explore two main approaches:
 ---
 
 ## Architecture
-![Hat Swap Network Architecture](HatSwap-MultiTask-Network/main/hatswaparhictecture.png)
+![Hat Swap Network Architecture](https://raw.githubusercontent.com/dineshRaja29/HatSwap-MultiTask-Network/main/hatswaparhictecture.png)
 
 The Hat Swap Network structure includes:
 - A **shared feature extractor** based on **DINO**, a self-supervised Vision Transformer (ViT) from Facebook AI.
@@ -36,7 +36,7 @@ For the joint training setup, the datasets are merged with an additional column 
 
 ## File Descriptions
 
-### 1. `/001_hat_swap_architecture_Catastrophic_Forgetting.ipynb`
+### 1. `001_hat_swap_architecture_Catastrophic_Forgetting.ipynb`
 
 **Goal:**  
 Build and train the Hat Swap Network sequentially on each task.
